@@ -1,4 +1,4 @@
-This is a PHP based web application development framework created by Ashwini Rath of BATOI Systems (P) Limited. Batoi Open Source framework encompasses the multi-tier architecture of web, and enables entreprise-grade web application development really fast and easy. for more details about the framework, please visit its home page at https://www.batoi.com/framework
+This is a PHP based web application development framework created using OSF. Batoi Open Source framework encompasses the multi-tier architecture of web, and enables entreprise-grade web application development really fast and easy. for more details about the framework, please visit its home page at https://www.batoi.com/framework
 
 TECHNOLOGIES
 -------------

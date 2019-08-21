@@ -1,0 +1,52 @@
+[08-Aug-2016 13:27:08 Greenwich] PHP Warning:  opendir(../script/): failed to open dir: No such file or directory in /home/batoisandbox/public_html/od2/osf/ide/class/ModelScript.cls.php on line 35
+[08-Aug-2016 13:27:08 Greenwich] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/ModelScript.cls.php on line 37
+[08-Aug-2016 13:27:24 Greenwich] PHP Warning:  opendir(../script/): failed to open dir: No such file or directory in /home/batoisandbox/public_html/od2/osf/ide/class/ModelScript.cls.php on line 35
+[08-Aug-2016 13:27:24 Greenwich] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/ModelScript.cls.php on line 37
+[08-Aug-2016 15:48:38 Greenwich] PHP Warning:  opendir(../view/html/): failed to open dir: No such file or directory in /home/batoisandbox/public_html/od2/osf/ide/class/View.cls.php on line 81
+[08-Aug-2016 15:48:38 Greenwich] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/View.cls.php on line 83
+[08-Aug-2016 15:59:50 Greenwich] PHP Warning:  opendir(../view/html/): failed to open dir: No such file or directory in /home/batoisandbox/public_html/od2/osf/ide/class/View.cls.php on line 81
+[08-Aug-2016 15:59:50 Greenwich] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/View.cls.php on line 83
+[08-Aug-2016 15:59:50 Greenwich] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/batoisandbox/public_html/od2/osf/ide/html/viewfiles.tpl.php on line 77
+[08-Aug-2016 16:01:32 Greenwich] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/batoisandbox/public_html/od2/osf/ide/html/viewfiles.tpl.php on line 77
+[09-Aug-2016 21:26:00 Greenwich] PHP Warning:  Illegal string offset 'providers' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:00 Greenwich] PHP Warning:  Illegal string offset 'Google' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:00 Greenwich] PHP Warning:  Illegal string offset 'keys' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:00 Greenwich] PHP Warning:  Illegal string offset 'id' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:22 Greenwich] PHP Warning:  Illegal string offset 'providers' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:22 Greenwich] PHP Warning:  Illegal string offset 'Google' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:22 Greenwich] PHP Warning:  Illegal string offset 'keys' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:22 Greenwich] PHP Warning:  Illegal string offset 'id' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:55 Greenwich] PHP Warning:  Illegal string offset 'providers' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:55 Greenwich] PHP Warning:  Illegal string offset 'Google' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:55 Greenwich] PHP Warning:  Illegal string offset 'keys' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:26:55 Greenwich] PHP Warning:  Illegal string offset 'id' in /home/batoisandbox/public_html/od2/osf/ide/html/sso.tpl.php on line 14
+[09-Aug-2016 21:28:29 Greenwich] PHP Warning:  include(&lt;?php
+
+/**
+ * HybridAuth
+ * http://hybridauth.sourceforge.net | http://github.com/hybridauth/hybridauth
+ * (c) 2009-2015, HybridAuth authors | http://hybridauth.sourceforge.net/licenses.html
+ */
+// ----------------------------------------------------------------------------------------
+//	HybridAuth Config file: http://hybridauth.sourceforge.net/userguide/Configuration.html
+// ----------------------------------------------------------------------------------------
+
+return
+		array(
+			&quot;base_url&quot; =&gt; &quot;https://www.batoisandbox.com/od2/osf/thirdparty/hybridauth/&quot;,
+			&quot;providers&quot; =&gt; array(
+				// openid providers
+				&quot;OpenID&quot; =&gt; array(
+					&quot;enabled&quot; =&gt; true
+				),
+				&quot;Yahoo&quot; =&gt; array(
+					&quot;enabled&quot; =&gt; true,
+					&quot;keys&quot; =&gt; array(&quot;key&quot; =&gt; &quot;&quot;, &quot;secret&quot; =&gt; &quot;&quot;),
+				),
+				&quot;Google&quot; =&gt; array(
+					&quot;enabled&quot; =&gt; true,
+					&quot;keys&quot; in /home/batoisandbox/public_html/od2/osf/ide/class/Sys.cls.php on line 214
+[15-Aug-2016 09:18:10 Greenwich] PHP Warning:  fopen(../model/class/script.cls.php): failed to open stream: No such file or directory in /home/batoisandbox/public_html/od2/osf/ide/class/Model.cls.php on line 54
+[15-Aug-2016 09:18:10 Greenwich] PHP Warning:  filesize(): stat failed for ../model/class/script.cls.php in /home/batoisandbox/public_html/od2/osf/ide/class/Model.cls.php on line 55
+[15-Aug-2016 09:18:10 Greenwich] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/Model.cls.php on line 55
+[15-Aug-2016 09:18:10 Greenwich] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/batoisandbox/public_html/od2/osf/ide/class/Model.cls.php on line 56
